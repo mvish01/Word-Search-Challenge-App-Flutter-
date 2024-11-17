@@ -4,6 +4,7 @@
 **Key Features:**
 
 **Custom Word Grids:** Users can create hidden grids filled with random letters and concealed words.
+
 **Multiplayer Gameplay:** Supports two or more players for competitive fun.
 **Luck-Based Challenges:** Players rely on luck and strategy to guess the hidden words from the grid.
 **Hint System:** Hints are provided through signs, expressions, or symbols, making each turn more engaging.
