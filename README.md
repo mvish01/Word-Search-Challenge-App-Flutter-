@@ -3,14 +3,14 @@
 
 **Key Features:**
 
-**Custom Word Grids:** Users can create hidden grids filled with random letters and concealed words.                                                                  
-**Multiplayer Gameplay:** Supports two or more players for competitive fun.                                                                                
-**Luck-Based Challenges:** Players rely on luck and strategy to guess the hidden words from the grid.                                                     
-**Hint System:** Hints are provided through signs, expressions, or symbols, making each turn more engaging.                                                
-**Interactive Word Highlighting:** Correctly guessed words are highlighted and points awarded.                                                           
-**Two Modes:** Play by guessing letters or full words for added versatility.                                                                                   
-**Dynamic Gameplay:** The unpredictable nature of the game keeps it exciting with every turn.                                                                    
-**Cross-Platform Support:** Enjoy the app seamlessly on Android and iOS devices.
+_**Custom Word Grids:**_  Users can create hidden grids filled with random letters and concealed words.                                                               
+_**Multiplayer Gameplay:**_  Supports two or more players for competitive fun.                                                                              
+_**Luck-Based Challenges:**_  Players rely on luck and strategy to guess the hidden words from the grid.                  
+_**Hint System:**_  Hints are provided through signs, expressions, or symbols, making each turn more engaging.                                              
+_**Interactive Word Highlighting:**_  Correctly guessed words are highlighted and points awarded.                                                          
+_**Two Modes:**_  Play by guessing letters or full words for added versatility.                                                                                 
+_**Dynamic Gameplay:**_  The unpredictable nature of the game keeps it exciting with every turn.                                                                  
+_**Cross-Platform Support:**_  Enjoy the app seamlessly on Android and iOS devices.
 
 
 
